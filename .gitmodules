@@ -4,6 +4,3 @@
 [submodule "ucfaresweek5/www/images"]
 	path = ucfaresweek5/www/images
 	url = https://github.com/ucfares/cege0043-imagesReference
-[submodule "ucfaresweek5/www/css"]
-	path = ucfaresweek5/www/css
-	url = https://github.com/ucfares/cege0043-cssReference

@@ -1,10 +1,10 @@
 [submodule "ucfaresweek5/www/js"]
 	path = ucfaresweek5/www/js/
-	url = https://github.com/ucfares/cege0043-jsReference
+	url = https://github.com/ucfares/cege0043-jsReference/
 [submodule "ucfaresweek5/www/css"]
 	path = ucfaresweek5/www/css/
-	url = https://github.com/ucfares/cege0043-cssReference
+	url = https://github.com/ucfares/cege0043-cssReference/
 [submodule "ucfaresweek5/www/images"]
 	path = ucfaresweek5/www/images/
-	url = https://github.com/ucfares/cege0043-imagesReference
+	url = https://github.com/ucfares/cege0043-imagesReference/
 
